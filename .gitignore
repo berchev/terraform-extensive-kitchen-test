@@ -1,0 +1,5 @@
+.kitchen
+Gemfile.lock
+get-pip.py
+test/assets/key_pair.pub
+test/assets/key_pair
